@@ -1,5 +1,6 @@
 # Site settings
 title: Sylvester and Associates
+encoding: utf-8
 email: webmster@sylvester-associates.com
 description: > # this means to ignore newlines until "baseurl:"
   Sylvester and Associates.
